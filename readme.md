@@ -2,7 +2,7 @@
 
 Full Stack Developer
 
-[Portfolio](#) · [LinkedIn](https://www.linkedin.com/in/samira-shajahan-borsha/) · [Email](mailto:samiraborsha.aiub@gmail.com)
+[Portfolio](https://portfolio-samira-green.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/samira-shajahan-borsha/) · [Email](mailto:samiraborsha.aiub@gmail.com)
 
 Building scalable, production-ready full-stack applications with a focus on robust backend architecture.
 
