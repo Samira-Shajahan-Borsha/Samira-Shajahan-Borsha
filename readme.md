@@ -17,8 +17,6 @@ I focus on building systems that prioritize performance, security, and clean sep
 - Architecting scalable backend APIs and microservices
 - Containerization and infrastructure deployment with Docker
 - Real-time bidirectional communication and WebSocket integrations
-- Database schema design and query optimization
-- Full-stack type safety and modular MVC patterns
 
 ## Tech Stack
 
