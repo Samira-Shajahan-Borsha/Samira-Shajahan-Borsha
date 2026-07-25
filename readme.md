@@ -22,7 +22,7 @@ I focus on building systems that prioritize performance, security, and clean sep
 
 | 🖥️ Frontend | 🖧 Backend | 🛢️ Databases | ☁️ Cloud & Tools |
 | :--- | :--- | :--- | :--- |
-| <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,redux&perline=3" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,redis&perline=2" /> | <img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase&perline=2" /> | <img src="https://skillicons.dev/icons?i=aws,vercel,firebase,git,github&perline=3" /> |
+| <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,redux&perline=3" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,redis&perline=2" /> | <img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase&perline=2" /> | <img src="https://skillicons.dev/icons?i=aws,vercel,docker,firebase,git,github&perline=3" /> |
 
 ## Featured Projects
 
